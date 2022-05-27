@@ -1,4 +1,5 @@
 Name of project: Tindog
+
 Live site URL:
 
 This is a portfolio project from Angela Yu's App Brewery course, The Complete Web Development Bootcamp.

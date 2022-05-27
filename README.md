@@ -1,6 +1,6 @@
 Name of project: Tindog
 
-Live site URL:
+Live site URL: https://khairanadiji.github.io/Tindog/
 
 This is a portfolio project from Angela Yu's App Brewery course, The Complete Web Development Bootcamp.
 
